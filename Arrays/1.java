@@ -1,0 +1,1 @@
+//Arrays:- List of elements of the same type placed ina contigous memory location.
